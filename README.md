@@ -1,1 +1,4 @@
-# mini-table
+
+### `npm install`
+
+### `npm start`

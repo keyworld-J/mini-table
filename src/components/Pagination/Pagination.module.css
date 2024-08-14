@@ -1,0 +1,11 @@
+.paginationContainer{
+    padding: 10px 10px;
+    display:flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    width:800px;
+}
+select {
+    width:80px;
+    margin-right:20px
+}
