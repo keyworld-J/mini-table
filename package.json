@@ -16,7 +16,7 @@
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://keyworld-j.github.io/mini-table/",
+  "homepage": "/build/index.html",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
